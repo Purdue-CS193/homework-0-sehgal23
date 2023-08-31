@@ -15,8 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- It's taught by underclassmen
+- There is not alot of homework
+- The topics/tools taught are interesting and useful.  
 
 1. Numbered
 2. List
