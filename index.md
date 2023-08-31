@@ -1,8 +1,4 @@
-# Arnav Sehgal's First CS193 Homework
 
-- It's taught by underclassmen
-- There is not alot of homework
-- The topics/tools taught are interesting and useful.  
 
 ## Welcome to GitHub Pages
 
@@ -13,6 +9,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+# Arnav Sehgal's First CS193 Homework
+
+- It's taught by underclassmen
+- There is not alot of homework
+- The topics/tools taught are interesting and useful.  
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
