@@ -19,8 +19,6 @@ Syntax highlighted code block
 - There is not alot of homework
 - The topics/tools taught are interesting and useful.  
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
