@@ -1,5 +1,3 @@
-
-
 # Arnav Sehgal's First CS193 Homework
 
 - It's taught by underclassmen
